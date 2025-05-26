@@ -28,3 +28,4 @@ elif "cold" in facts:
     print("The patient is diagnosed with cold.")
 else:
     print("No conclusive diagnosis could be made.")
+ 
