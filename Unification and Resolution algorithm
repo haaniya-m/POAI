@@ -62,3 +62,4 @@ if resolution(knowledge_base, query):
     print("Query is resolved: John is Mortal")
 else:
     print("Query could not be resolved")
+ 
