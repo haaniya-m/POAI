@@ -8,3 +8,4 @@ likes(john, mary).
 likes(john, X) :- likes(mary, X).        % John likes anything that Mary likes
 likes(john, Y) :- likes(Y, wine).        % John likes anyone who likes wine
 likes(john, Y) :- likes(Y, Y).           % John likes anyone who likes themselves
+ 
