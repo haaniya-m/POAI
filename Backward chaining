@@ -23,3 +23,4 @@ if backward_chaining(query):
     print(f"The patient is diagnosed with {query}.")
 else:
     print(f"The patient does NOT have {query}.")
+ 
